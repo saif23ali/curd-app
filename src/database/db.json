@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Saifali ",
+      "Surname": "chauhan",
+      "email": "saifalichauhan123456789@gmail.com",
+      "phone": "6677887899",
+      "id": 1
+    },
+    {
+      "name": "Priyanka",
+      "username": "",
+      "email": "priyankatripathi@gmail.com",
+      "phone": "7865345677",
+      "Surname": "Triphati",
+      "id": 2
+    },
+    {
+      "name": "Saifali",
+      "username": "",
+      "email": "saifalichauhan123456789@gmail.com",
+      "phone": "08872256677",
+      "Surname": "Rajput",
+      "id": 3
+    }
+  ]
+}
